@@ -1,0 +1,32 @@
+﻿@model TaskDto
+
+<h3>@Model.CourseTitle - @Model.Title</h3>
+
+<button id="editTaskButton" data-id="@Model.Id">Изменить задачу</button>
+
+<button id="createTestButton" data-id="@Model.Id">Создать тест</button>
+<br />
+<strong>Описание:</strong>
+<span id="description">@Model.Description</span>
+<br />
+<strong>Максимальный результат:</strong>
+<span id="maxResult">@Model.MaxResult</span>
+
+@foreach (var test in Model.Tests.OrderBy(x => x.Title))
+{
+    <div>
+        <a href=@test.DetailUrl>@test.Title</a>
+        <button id="editTest-@test.Id" data-id="@test.Id" class="editTestButton">Изменить</button>
+    </div>
+    <br />
+}
+
+<div id="popupWin" class="formWindow">
+
+</div>
+
+<script>
+    var TaskId = @Model.Id;
+</script>
+
+<script src="~/js/teacher.taskdetail.js"></script>

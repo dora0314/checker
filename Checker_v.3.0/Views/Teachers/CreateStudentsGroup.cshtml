@@ -1,0 +1,32 @@
+﻿@model CreateStudentsGroupViewModel
+
+@{
+    Layout = null;
+}
+
+<link rel="stylesheet" href="~/css/forms.css">
+
+<form class="form teacher_create_group" asp-action="CreateStudentsGroup" asp-controller="Teachers">
+    <h2 style="text-align: center" id="title">Создать группу</h2>
+
+    <div class="row col-12">
+        <div class="col-5 justify-content-end" style="display:inline-block">
+            <label style="font-weight:bold" asp-for="Title">Название:</label>
+        </div>
+        <div class="col-7 justify-content-start" style="display:inline-block">
+            <input class="input" type="text" asp-for="Title" />
+        </div>
+    </div>
+
+    <div class="row col-12">
+        <div class="col-5 justify-content-end">
+            <label asp-for="OwnerId" hidden>Владелец:</label>
+            <input class="input" type="hidden" asp-for="OwnerId" value="@Model.OwnerId" />
+        </div>
+        <div class="col-7 justify-content-start">
+            <input class="input" type="hidden" asp-for="OwnerId" value="@Model.OwnerId" />
+        </div>
+    </div>
+
+    <input class="create_button" style="text-align: center" type="submit" value="Создать">
+</form>

@@ -1,0 +1,24 @@
+﻿@model CourseDto
+
+<h3>@Model.Title</h3>
+
+<button id="createTaskButton">Создать</button>
+
+@foreach (var task in Model.Tasks.OrderBy(x => x.Title))
+{
+    <div>
+        <a href=@task.DetailUrl>@task.Title</a>
+        <button id="editTask-@task.Id" data-id="@task.Id" class="editTaskButton">Изменить</button>
+    </div>
+    <br />
+}
+
+<div id="popupWin" class="formWindow">
+
+</div>
+
+<script>
+    var CourseId = @Model.Id;
+</script>
+
+<script src="~/js/teacher.coursedetail.js"></script>

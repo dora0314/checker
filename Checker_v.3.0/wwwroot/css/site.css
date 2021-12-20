@@ -1,0 +1,182 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+/* Tabs styles
+-------------------------------------------------- */
+
+.tabs {
+    border: 1px solid lightgray;
+}
+
+.tabs__nav {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    background: #f8f8f8;
+    margin: 0;
+    border-bottom: 1px solid lightgray;
+}
+
+.tabs__link {
+    padding: 0.5rem 0.75rem;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    flex-shrink: 0;
+    flex-grow: 1;
+}
+
+.tabs__link_active {
+    background: lightgray;
+    cursor: default;
+}
+
+.tabs__link:not(.tabs__link_active):hover,
+.tabs__link:not(.tabs__link_active):focus {
+    background-color: #efefef;
+}
+
+.tabs__content {
+    padding: 1rem;
+}
+
+.tabs__pane {
+    display: none;
+}
+
+.tabs__pane_show {
+    display: block;
+}
+
+/* Form styles
+-------------------------------------------------- */
+
+label {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.head {
+    font-size: 16px;
+}
+
+.formWindow {
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    top: 20%; /* отступ сверху */
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    z-index: 2; /* поверх всех */
+    display: none; /* сначала невидим */
+    position: fixed; /* фиксированное позиционирование, окно стабильно при прокрутке */
+    padding: 15px;
+    border-radius: 10pt;
+}
+
+.input {
+    background-color: #EAEAEA;
+    border: none;
+    border-radius: 5pt;
+    height: 20pt;
+}
+
+#shadow {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 1; /* поверх всех  кроме окна*/
+    background: #000;
+    opacity: 0.5; /*прозрачность*/
+    left: 0;
+    top: 0;
+}
+
+.create_button, .edit_button {
+    border-radius: 5pt;
+    background-color: #6892FF;
+    color: #FFFFFF;
+    border: none;
+    font-size: x-large;
+}
+
+.form {
+    border-radius: 10pt;
+}
+
+.teacher_create_group .col5, .teacher_create_group .col7 {
+    display: inline-block;
+}

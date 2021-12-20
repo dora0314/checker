@@ -1,0 +1,84 @@
+﻿@model IEnumerable<TaskDto>
+
+<style>
+    label{
+        margin-top: 6px;
+        margin-bottom: 6px;
+    }
+
+    .head{
+        font-size: 16px;
+    }
+
+    .formWindow {
+        height: 400px;
+        width: 400px;
+        background-color: white;
+        top: 20%; /* отступ сверху */
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+        z-index: 2; /* поверх всех */
+        display: none; /* сначала невидим */
+        position: fixed; /* фиксированное позиционирование, окно стабильно при прокрутке */
+        padding: 15px;
+    }
+
+    #shadow {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 1; /* поверх всех  кроме окна*/
+        background: #000;
+        opacity: 0.5; /*прозрачность*/
+        left: 0;
+        top: 0;
+    }
+</style>
+
+<div class="buttonsContainer">
+    <div class="col-2 justify-content-center">
+        <button id="createButton">Create</button>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+            <div class="col-1 justify-content-center">
+                <label class="taskId head">Id</label>
+            </div>
+            <div class="col-2 justify-content-center">
+                <label class="taskTitle head">Title</label>
+            </div>
+            <div class="col-2 justify-content-center">
+                <label class="taskGroupTitle head">GroupTitle</label>
+            </div>
+            <div class="col-2 justify-content-center">
+                <label class="taskMaxResult head">MaxResult</label>
+            </div>
+        </div>
+
+    @foreach(var task in Model)
+    {
+        <div class="row">
+            <div class="col-1 justify-content-center">
+                <label class="taskId">@task.Id</label>
+            </div>
+            <div class="col-2 justify-content-center">
+                <label class="taskTitle">@task.Title</label>
+            </div>
+            <div class="col-2 justify-content-center">
+                <label class="taskGroupTitle">@task.CourseTitle</label>
+            </div>
+            <div class="col-2 justify-content-center">
+                <label class="taskMaxResult">@task.MaxResult</label>
+            </div>
+        </div>
+    }
+</div>
+
+<div id="popupWin" class="formWindow">
+    
+</div>
+
+<script src="~/js/tasklist.js"></script>

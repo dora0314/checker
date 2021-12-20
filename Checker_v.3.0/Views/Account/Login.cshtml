@@ -1,0 +1,53 @@
+﻿@model LoginViewModel
+
+@{
+    Layout = null;
+}
+
+<head>
+    <meta charset="utf-8">
+    <title>Авторизация</title>
+    <link rel="stylesheet" href="/css/authorization.css">
+    <link rel="icon" href="/Files/images/icon.svg" type="image/svg">
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+</head>
+<body>
+    <main>
+        <article class="log_in">
+            <article class="login_container">
+                <p class="log_in_header">Войти</p>
+                <form asp-action="Login" asp-controller="Account" asp-anti-forgery="true" class="login_forms" autocomplete="on">
+                    <label asp-for="Email" class="login">
+                        Логин:
+                        <input asp-for="Email" class="email_input" type="email" size="25" required>
+                    </label>
+                    <label asp-for="Password" class="password">
+                        Пароль:
+                        <input asp-for="Password" class="password_input" type="password" size="25" minlength="3" pattern="^[ 0-9]+$" title="Введите пароль, состоящий минимум из 6 цифр." autocomplete="current-password" required>
+                    </label>
+
+                    <input class="submit_button" type="submit" value="   Войти   ">
+                </form>
+                
+            </article>
+            <label class="registration">
+                <input class="registration_button" type="button" id="registration" value=" Зарегистрироваться ">
+            </label>
+        </article>
+        <article class="description">
+            <p class="description_text">checker.ru - это веб-сервис для проверки своих решений задач по разным предметам на МатМехе</p>
+        </article>
+    </main>
+    <footer class="footer">
+        <article class="contacts">
+            <a href="https://vk.com/dorapomodora" class="contacts_button" target="_blank">Написать администратору</a>
+        </article>
+    </footer>
+</body>
+
+<script>
+    $("#registration").click(function () {
+        var url = window.location.protocol + "//" + window.location.host + "/Account/Register";
+        document.location.href = url;
+    });
+</script>

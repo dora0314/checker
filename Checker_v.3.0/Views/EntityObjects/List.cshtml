@@ -1,0 +1,71 @@
+﻿@model EntityObjectListDto
+
+<label style="font-size:xx-large">@Model.Title</label>
+
+<div class="buttonsContainer">
+    <div>
+        <button id="createButton">Создать</button>
+    </div>
+</div>
+
+<table border="1" style="border-color:aliceblue" width="100%">
+    <tr>
+        @foreach (var headItem in Model.Head)
+        {
+            <th style="background-color:lightgray">
+                <strong style="text-align:left;margin-left:10px">@headItem</strong>
+            </th>
+        }
+
+        <th style="background-color:lightgray">
+            <strong style="text-align:left;margin-left:10px">Действия</strong>
+        </th>
+    </tr>
+
+    @foreach (var entity in Model.Entities)
+    {
+        <tr>
+            @foreach (var entityField in entity)
+            {
+                <td style="background-color:antiquewhite">
+                    @*if (entityField.Type == typeof(List<EntityObject>))
+                    {
+                        <div>
+                            @foreach (var item in (dynamic)entityField.Value)
+                            {
+                                <a href="@item.Url">@item.Value</a>
+                            }
+                        </div>
+                    }
+                    else*@ 
+                    @if (entityField.Url != null)
+                    {
+                        <a style="text-align:center;margin-left:10px" href="@entityField.Url">@entityField.Value</a>
+                    }
+                    else
+                    {
+                        <label style="text-align:center;margin-left:10px">@entityField.Value</label>
+                    }
+                </td>
+            }
+            @*Actions*@
+            @{ 
+                var entityId = entity.First(x => x.Name == "Id").Value;
+            }
+            <td>
+                <button class="editButton" style="background-color:lightgreen" data-id="@entityId">Редактировать</button>
+                <button class="deleteButton" style="background-color:orangered" data-id="@entityId">Удалить</button>
+            </td>
+        </tr>
+    }
+</table>
+
+<div id="popupWin" class="formWindow">
+    
+</div>
+
+<script>
+    var EntityName = "@Model.EntityName";
+</script>
+
+<script src="~/js/entityobject.list.js"></script>

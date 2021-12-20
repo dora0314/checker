@@ -1,0 +1,75 @@
+﻿@model StudentViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Личный кабинет</title>
+    <link rel="stylesheet" href="/css/student.profile.courses.css">
+    <link rel="icon" href="/Files/images/icon.svg" type="image/svg">
+  </head>
+  <body>
+      <header>
+          <p class="header">Личный кабинет</p>
+      </header>
+      <main>
+          <article class="info">
+              <p class="name">@Model.FullName</p>
+              <p class="role">студент</p>
+              <p class="mail">Аккаунт: <a class="student_mail">@Model.Email</a></p>
+              <p class="group">Группа: <a class="group_number">@(Model.Group == null ? "" : Model.Group.Title)</a></p>
+          </article>
+          <article class="courses">
+              <p class="courses_header">Курсы</p>
+              @if (Model.Courses != null)
+              {
+                  foreach (var course in Model.Courses)
+                  {
+                      <article class="course_container">
+                          <a class="course_name" href=@course.DetailUrl>@course.Title</a>
+                          <p class="course_teacher">Преподаватель: @course.Owner.FullName</p>
+                      </article>
+                  }
+              }
+          </article>
+      </main>
+      <footer>
+        <article class="contacts">
+          <a href="https://vk.com/dorapomodora" class="contacts_button" target="_blank">Написать администратору</a> 
+        </article>
+      </footer>
+  </body>
+</html>
+
+
+
+
+
+
+@*<div class="info">
+    <p class="full_name">@Model.FullName</p>
+    <p class="role">Студент</p>
+    <p class="mail">Аккаунт: @Model.Email</p>
+    <p>Группа: @Model.Group.Title</p>
+</div>
+
+<br />
+
+<h2>Курсы</h2>
+
+@foreach (var course in Model.Courses)
+{
+    <div>
+        <a href=@course.DetailUrl>@course.Title</a>
+        <p class="role">преподаватель: @course.Owner.FullName</p>
+    </div>
+    <br />
+}
+
+<div id="popupWin" class="formWindow">
+
+</div>*@

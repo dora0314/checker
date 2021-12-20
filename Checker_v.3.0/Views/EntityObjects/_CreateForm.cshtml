@@ -1,0 +1,42 @@
+﻿@model EntityObjectEditDto
+
+@{
+    Layout = null;
+}
+
+<form>
+    <h2 style="text-align:center" id="title">@ViewData["Title"] - @Model.EntityName</h2>
+
+    @foreach (var field in Model.Fields)
+    {
+        <div class="row col-12">
+
+            <div class="col-5 justify-content-end">
+                <label style="font-weight:bold" for=@field.Name>@field.Title:</label>
+            </div>
+
+            @if (field.InputType == "select")
+            {
+                <div class="col-7 justify-content-start">
+                    <select id=@field.Name name="@field.Name" class="form-select" asp-items="@field.Values"></select>
+                </div>
+            }
+            else if(field.InputType == "textarea")
+            { 
+                <div class="col-7 justify-content-start">
+                    <textarea id=@field.Name name="@field.Name">@(field.Value)</textarea>
+                </div>
+            }
+            else
+            {
+                <div class="col-7 justify-content-start">
+                    <input type=@field.InputType id=@field.Name name="@field.Name" value="@(field.Value)"/>
+                </div>
+            }
+        </div>
+    }
+</form>
+
+<div class="col-12 justify-content-center">
+    <button style="text-align:center;" id="createEntity">Создать</button>
+</div>

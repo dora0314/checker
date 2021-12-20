@@ -1,0 +1,65 @@
+﻿@model StudentsGroupDto
+
+<h3>@Model.Title</h3>
+
+<div class="tabs">
+    <div class="tabs__nav">
+        @{
+            var first = true;
+        }
+        @foreach (var course in Model.Courses)
+        {
+            <a class="tabs__link @(first ? "tabs__link_active" : "")" href="#@course.Name">@course.Title</a>
+            first = false;
+        }
+    </div>
+    <div class="tabs__content" data-id=@Model.Id>
+        @{
+            first = true;
+        }
+        @foreach (var course in Model.Courses)
+        {
+            <div class="@(first ? "tabs__pane tabs__pane_show" : "tabs__pane")" id="@course.Name">
+                <table border="1" style="border-color:aliceblue" width="100%">
+                    <tr>
+                        <th style="background-color:lightgray">
+                            <strong style="text-align:left;margin-left:10px">Студенты</strong>
+                        </th>
+
+                        @foreach (var task in course.Tasks)
+                        {
+                            <th style="background-color:lightgray">
+                                <strong style="text-align:left;margin-left:10px">@task.Title</strong>
+                            </th>
+                        }
+                    </tr>
+
+                    @foreach (var student in Model.Students)
+                    {
+                        <tr>
+                            <td style="background-color:antiquewhite">
+                                <strong>@student.FullName</strong>
+                            </td>
+
+                            @foreach (var task in course.Tasks)
+                            {
+                                var taskResult = course.TasksResults
+                                    .FirstOrDefault(x => x.StudentId == student.Id && x.TaskId == task.Id);
+                                var result = taskResult == null ? "-" : $"{taskResult.TeacherResult}/{task.MaxResult}";
+
+                                <td style="background-color:antiquewhite">
+
+                                    <a href="@taskResult.DetailUrl" style="text-align:center;margin-left:10px">@result</a>
+
+                                </td>
+                            }
+                        </tr>
+                    }
+                </table>
+            </div>
+            first = false;
+        }
+    </div>
+</div>
+
+<script src="~/js/teacher.studentgroupdetail.js"></script>

@@ -1,0 +1,30 @@
+﻿@model TestViewModel
+
+@{
+    Layout = null;
+}
+
+<form asp-action="Create" asp-controller="Tests" method="post" enctype="multipart/form-data">
+    <h2 style="text-align: center" id="title">Создать Task</h2>
+
+    <div class="row col-12 justify-content-center">
+        <label asp-for="Title">Название:</label>
+        <input type="text" asp-for="Title" />
+    </div>
+
+    <div class="row col-12 justify-content-center">
+        <label>Файл:</label>
+        <input asp-for="TestFile" type="file" name="TestFile"/>
+    </div>
+
+    <div class="row col-12 justify-content-center">
+        <div class="col-2">
+            <label asp-for="TaskId">Задача:</label>
+        </div>
+        <div class="col-2">
+            <select asp-for="TaskId" class="form-select" asp-items="Model.Tasks"></select>
+        </div>
+    </div>
+
+    <input style="text-align: center" type="submit" value="Create">
+</form>

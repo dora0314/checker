@@ -1,0 +1,37 @@
+﻿@model StudentTaskDto
+
+<label>Постановка задачи: @Model.Task.Description</label>
+<br />
+<strong>Решение:</strong>
+<br />
+@{ 
+    var solutionDateTime = Model.TeacherResult.SolutionLoadDateTime.HasValue ?
+        Model.TeacherResult.SolutionLoadDateTime.Value.ToString("HH.mm") + " " + Model.TeacherResult.SolutionLoadDateTime.Value.ToString("dd.MM.yy") :
+        "";
+}
+<label>Дата последней загрузки........</label><label id="solutionLoadedDateTime">@solutionDateTime</label>
+<br />
+<label>Прошло тестов     </label><label id="passedTestsCountLabel">@Model.TeacherResult.SuccessTestsCount</label><label>/@Model.Task.Tests.Count()</label>
+<br />
+<label>Итоговая оценка     @Model.TeacherResult.TeacherResult/@Model.Task.MaxResult</label>
+<br />
+<strong>Тесты(</strong><strong id="fileNoteText">@(Model.TeacherResult.SolutionLoadDateTime.HasValue ? "Решение загружено" : "Решение не загружено")</strong><strong>):</strong>
+<br />
+@foreach (var testResult in Model.TestsResults)
+{
+    <label class="testLabel" data-id="@testResult.Test.Id">@testResult.Test.Title ................ @testResult.State.Title</label>
+    <br />
+}
+
+<input id="loadSolutionButton" name="loadSolutionButton" data-id="@Model.TeacherResult.Id" style="width:130px; overflow:hidden;" onchange="LoadSolution('loadSolutionButton')" type="file" value="Загрузить решение" />
+<input id="checkSolutionButton" name="checkSolutionButton" data-id="@Model.TeacherResult.Id" type="button" value="Проверить решение" />
+
+<script>
+    var StudentTaskResultId = "@Model.TeacherResult.Id";
+</script>
+
+<div id="popupWin" class="formWindow">
+
+</div>
+
+<script src="~/js/student.taskdetail.js"></script>

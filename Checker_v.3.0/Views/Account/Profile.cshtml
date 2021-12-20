@@ -1,0 +1,18 @@
+﻿@model UserDto
+
+<h2>Список задач</h2>
+
+<div>
+    <div class="UserInfoContainer">
+        <label>@Model.ShortName</label>
+        <label>@Model.FullName</label>
+        <label>@Model.Email</label>
+        <label>@Model.GroupTitle</label>
+        <b />
+        @foreach(var task in Model.Tasks)
+        {
+            <label>@task.Title</label>
+
+        }
+    </div>
+</div>

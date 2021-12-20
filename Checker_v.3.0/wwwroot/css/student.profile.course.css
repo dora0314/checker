@@ -1,0 +1,221 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: auto;
+    min-width: 100%;
+    min-height: 100%;
+    margin: auto;
+    background: #CECECE;
+    font-family: PT SansNarrow;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.2fr 4fr 0.25fr;
+    grid-auto-flow: row;
+    grid-template-areas:
+        "header"
+        "main"
+        "footer";
+}
+
+@font-face {
+    font-family: PT SansNarrow;
+    src: url(/fonts/PTSansNarrow-Regular.ttf);
+}
+
+header {
+    grid-area: header;
+    background-color: #EAEAEA;
+    color: #6892FF;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-left: 2%;
+    margin: 0;
+}
+
+.header {
+    margin: 0;
+    padding-top: 1%;
+}
+
+main {
+    display: grid;
+    margin-top: 1%;
+    grid-template-columns: 0.3fr 0.4fr 0.5fr 0.5fr 0.5fr 0.3fr;
+    grid-template-rows: 0.5fr 1.5fr;
+    grid-auto-flow: row;
+    grid-area: main;
+    grid-template-areas:
+        "info info . . . ."
+        ". tasks tasks tasks tasks ."
+}
+
+.info {
+    grid-area: info;
+    min-height: 70%;
+    max-height: 80%;
+    min-width: 60%;
+    background-color: #FFFFFF;
+    padding-left: 12%;
+    margin-right: 10%;
+    margin-bottom: 1%;
+    border-top-right-radius: 20pt;
+    border-bottom-right-radius: 20pt;
+}
+
+.name {
+    font-size: x-large;
+    font-weight: 600;
+}
+
+
+.name, .role {
+    margin: 0;
+}
+
+.role {
+    font-size: smaller;
+}
+
+.group, .mail {
+    font-size: large;
+    margin-top: 7pt;
+    margin-bottom: 7pt;
+}
+
+.student_mail, .group_number {
+    color: #6892FF;
+}
+
+    .student_mail:hover {
+        text-decoration: underline;
+    }
+
+    .student_mail:visited {
+        text-decoration: none;
+        color: #6892FF;
+    }
+
+.tasks {
+    grid-area: tasks;
+    background-color: #EAEAEA;
+    border-top-left-radius: 10pt;
+    border-top-right-radius: 10pt;
+}
+
+.course_header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.course {
+    margin-left: 2%;
+    margin-top: 1%;
+    margin-bottom: 0;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.course_name {
+    color: #6892FF;
+}
+
+.course_points {
+    margin-right: 7%;
+    margin-bottom: 0;
+    margin-top: 2%;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.task_container {
+    max-height: 30%;
+    min-height: 10%;
+    background-color: #FFFFFF;
+    margin: 2%;
+    border-radius: 8pt;
+    /*    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto auto auto;
+    grid-auto-flow: row;
+    grid-template-areas: 
+    "task_name . . . . . task_points"
+    "task_description task_description task_description task_description task_description task_description task_description"
+    "status . . . . . .";*/
+}
+
+.name_points {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.task_name {
+    grid-area: task_name;
+    font-size: xx-large;
+    color: #6892FF;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-weight: 600;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+
+
+    .task_name:hover {
+        text-decoration: underline;
+    }
+
+    .task_name:visited {
+        text-decoration: none;
+        color: #6892FF;
+    }
+
+.task_points {
+    grid-area: task_points;
+    margin-bottom: 0;
+    margin-left: 10%;
+    margin-right: 5%;
+    font-size: xx-large;
+    margin-top: 2%;
+}
+
+.status {
+    grid-area: status;
+    margin-left: 2%;
+    font-size: large;
+    margin-top: 0;
+    margin-bottom: 2%;
+    padding-bottom: 1%;
+}
+
+.task_status {
+    color: #6892FF;
+}
+
+
+
+footer {
+    grid-area: footer;
+    background-color: #FFFFFF;
+    color: #6892FF;
+    font-size: x-large;
+}
+
+.contacts {
+    margin-left: 2%;
+}
+
+.contacts_button {
+    text-decoration: none;
+}
+
+    .contacts_button:hover {
+        text-decoration: underline;
+    }
+
+    .contacts_button:visited {
+        text-decoration: none;
+        color: #6892FF;
+    }

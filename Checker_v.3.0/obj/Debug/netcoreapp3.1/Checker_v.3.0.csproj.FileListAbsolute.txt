@@ -1,0 +1,416 @@
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.AssemblyReference.cache
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfoInputs.cache
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfo.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CoreCompileInputs.cache
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.MvcApplicationPartsAssemblyInfo.cache
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cache
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.json
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.exe
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.deps.json
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.json
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.dev.json
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.Manifest.cache
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.xml
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\scopedcss\bundle\Checker_v.3.0.styles.css
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.input.cache
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.output.cache
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorCoreGenerate.cache
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cache
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cs
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.genruntimeconfig.cache
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CopyComplete
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+A:\Files\Projects\C#\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.exe
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.deps.json
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.json
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.dev.json
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csprojAssemblyReference.cache
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfo.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cache
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.input.cache
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.output.cache
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorCoreGenerate.cache
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cache
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CopyComplete
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.Manifest.cache
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.xml
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.genruntimeconfig.cache
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Users\TeacherProfile.cshtml.g.cs
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\artem\Desktop\Checker_v.3.0\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tasks\TeacherList.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfo.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cache
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.exe
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.deps.json
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.json
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.dev.json
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.input.cache
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.output.cache
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorCoreGenerate.cache
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tasks\List.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tasks\_CreateForm.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Users\TeacherProfile.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cache
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CopyComplete
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.Manifest.cache
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.xml
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.genruntimeconfig.cache
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tests\List.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tests\_CreateForm.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Students\List.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\TasksGroups\List.cshtml.g.cs
+C:\Users\artem\Desktop\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\TasksGroups\_CreateForm.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.json
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.exe
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.deps.json
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.json
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.dev.json
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Castle.Core.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.AssemblyReference.cache
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfoInputs.cache
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfo.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CoreCompileInputs.cache
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.MvcApplicationPartsAssemblyInfo.cache
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cache
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.Manifest.cache
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.xml
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\scopedcss\bundle\Checker_v.3.0.styles.css
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.input.cache
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.output.cache
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorCoreGenerate.cache
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Students\List.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\TasksGroups\List.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\TasksGroups\_CreateForm.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tasks\List.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tasks\_CreateForm.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tests\List.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tests\_CreateForm.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Users\TeacherProfile.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cache
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cs
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CopyComplete
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.dll
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+A:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.genruntimeconfig.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.exe
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.deps.json
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.json
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.dev.json
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.GeneratedMSBuildEditorConfig.editorconfig
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfoInputs.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfo.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CoreCompileInputs.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.MvcApplicationPartsAssemblyInfo.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.Manifest.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.xml
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\scopedcss\bundle\Checker_v.3.0.styles.css
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.input.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.output.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorCoreGenerate.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\TasksGroups\List.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tasks\List.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tests\List.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Users\TeacherProfile.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CopyComplete
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.genruntimeconfig.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\EntityObjects\List.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\EntityObjects\Detail.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Users\TeacherLk.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\StudentsGroupDetail.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\CreateStudentsGroup.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\CreateCourse.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\CourseDetail.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\EditTask.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\CreateTask.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\TaskDetail.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\CreateTest.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\EntityObjects\_CreateForm.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Users\StudentLk.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Students\CourseDetail.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Students\TaskDetail.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tests\_CreateForm.cshtml.g.cs
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.AssemblyReference.cache
+G:\Files\Projects\C#\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Jint.dll
+G:\Files\Projects\C#\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\StudentTaskResult.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.exe
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.deps.json
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.json
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.runtimeconfig.dev.json
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Jint.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csprojAssemblyReference.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfoInputs.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.AssemblyInfo.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CoreCompileInputs.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorAssemblyInfo.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.Manifest.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\staticwebassets\Checker_v.3.0.StaticWebAssets.xml
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\scopedcss\bundle\Checker_v.3.0.styles.css
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.input.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.TagHelpers.output.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorCoreGenerate.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\EntityObjects\Detail.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\EntityObjects\List.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\EntityObjects\_CreateForm.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Students\CourseDetail.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Students\TaskDetail.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\TasksGroups\List.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tasks\List.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\CourseDetail.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\CreateCourse.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\CreateStudentsGroup.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\CreateTask.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\CreateTest.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\EditTask.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\StudentsGroupDetail.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\StudentTaskResult.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\TaskDetail.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tests\List.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Tests\_CreateForm.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Users\StudentLk.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Users\TeacherLk.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\Users\TeacherProfile.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cache
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.RazorTargetAssemblyInfo.cs
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.Views.pdb
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.csproj.CopyComplete
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.dll
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.pdb
+C:\Users\dacky\OneDrive\Рабочий стол\Kursach\2021\Checker\Checker_v.3.0\obj\Debug\netcoreapp3.1\Checker_v.3.0.genruntimeconfig.cache

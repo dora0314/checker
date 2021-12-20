@@ -1,0 +1,47 @@
+﻿@model TaskViewModel
+
+@{
+    Layout = null;
+}
+
+<form asp-action="CreateTask" asp-controller="Teachers" asp-route-courseId=@Model.CourseId>
+    <h2 style="text-align: center" id="title">Создать</h2>
+
+    <div class="row col-12">
+        <div class="col-5 justify-content-end">
+            <label style="font-weight:bold" asp-for="Title">Название:</label>
+        </div>
+        <div class="col-7 justify-content-start">
+            <input type="text" asp-for="Title" />
+        </div>
+    </div>
+
+    <div class="row col-12">
+        <div class="col-5 justify-content-end">
+            <label style="font-weight:bold" asp-for="Description">Описание:</label>
+        </div>
+        <div class="col-7 justify-content-start">
+            <input type="text" asp-for="Description" />
+        </div>
+    </div>
+
+    <div class="row col-12">
+        <div class="col-5 justify-content-end">
+            <label style="font-weight:bold" asp-for="MaxResult">Максимальный результат:</label>
+        </div>
+        <div class="col-7 justify-content-start">
+            <input type="number" asp-for="MaxResult" />
+        </div>
+    </div>
+
+    <div class="row col-12">
+        <div class="col-5 justify-content-end">
+            <label style="font-weight:bold" asp-for="CourseId" hidden>Курс:</label>
+        </div>
+        <div class="col-7 justify-content-start">
+            <select asp-for="CourseId" class="form-select" asp-items="Model.Courses" hidden></select>
+        </div>
+    </div>
+
+    <input class="create_button" style="text-align: center" type="submit" value="Создать">
+</form>

@@ -1,0 +1,38 @@
+﻿@model TestViewModel
+
+@{
+    Layout = null;
+}
+
+<form asp-action="CreateTest" asp-controller="Teachers" method="post" enctype="multipart/form-data">
+    <h2 style="text-align: center" id="title">Создать Тест</h2>
+
+    <div class="row col-12">
+        <div class="col-5 justify-content-end">
+            <label style="font-weight:bold" asp-for="Title">Название:</label>
+        </div>
+        <div class="col-7 justify-content-start">
+            <input type="text" asp-for="Title" />
+        </div>
+    </div>
+
+    <div class="row col-12">
+        <div class="col-5 justify-content-end">
+            <label style="font-weight:bold" asp-for="TestFile">Файл:</label>
+        </div>
+        <div class="col-7 justify-content-start">
+            <input type="file" asp-for="TestFile" />
+        </div>
+    </div>
+
+    <div class="row col-12">
+        <div class="col-5 justify-content-end">
+            <label style="font-weight:bold" asp-for="TaskId" hidden>Курс:</label>
+        </div>
+        <div class="col-7 justify-content-start">
+            <select asp-for="TaskId" class="form-select" asp-items="Model.Tasks" hidden></select>
+        </div>
+    </div>
+
+    <input class="create_button" style="text-align: center" type="submit" value="Создать">
+</form>

@@ -1,0 +1,254 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: auto;
+    min-width: 100%;
+    min-height: 100%;
+    margin: auto;
+    background: #CECECE;
+    font-family: PT SansNarrow;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.2fr 4fr 0.25fr;
+    grid-gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+        "header"
+        "main"
+        "footer";
+}
+
+@font-face {
+    font-family: PT SansNarrow;
+    src: url(/fonts/PTSansNarrow-Regular.ttf);
+}
+
+header {
+    grid-area: header;
+    background-color: #EAEAEA;
+    color: #6892FF;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-left: 2%;
+    margin: 0;
+}
+
+.header {
+    margin: 0;
+    padding-top: 1%;
+}
+
+main {
+    display: grid;
+    margin-top: 1%;
+    grid-template-columns: 0.3fr 0.4fr 0.5fr 0.5fr 0.5fr 0.3fr;
+    grid-template-rows: 0.5fr 1.6fr;
+    grid-auto-flow: row;
+    grid-area: main;
+    grid-template-areas:
+        "info info . . . ."
+        ". main_section main_section main_section main_section ."
+}
+
+.info {
+    grid-area: info;
+    min-height: 70%;
+    max-height: 75%;
+    min-width: 60%;
+    max-width: 80%;
+    background-color: #FFFFFF;
+    padding-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 0;
+    border-top-right-radius: 20pt;
+    border-bottom-right-radius: 20pt;
+}
+
+.name {
+    font-size: x-large;
+    font-weight: 600;
+}
+
+
+.name, .role {
+    margin: 0;
+}
+
+.role {
+    font-size: smaller;
+}
+
+.group, .mail {
+    font-size: large;
+    margin-top: 7pt;
+    margin-bottom: 7pt;
+}
+
+.teacher_mail {
+    color: #6892FF;
+}
+
+.main_section {
+    grid-area: main_section;
+    width: 100%;
+    height: 100%;
+    background-color: #EAEAEA;
+    border-top-left-radius: 10pt;
+    border-top-right-radius: 10pt;
+}
+
+.tabs {
+    margin: 2%;
+    height: 100%;
+}
+
+.tabs__nav {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    background: #FFFFFF;
+    margin: 0;
+    margin-bottom: 2%;
+    margin-left: 25%;
+    background-color: #FFFFFF;
+    border-radius: 5pt;
+    max-width: 50%; 
+}
+
+.tabs__link {
+    padding: 0.5rem 0.75rem;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    flex-shrink: 0;
+    flex-grow: 1;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.left {
+    border-right: 1px solid #CECECE;
+}
+
+.right {
+    border-left: 1px solid #CECECE;
+}
+
+.tabs__link_active {
+    color: #6892FF;
+    cursor: default;
+}
+
+.tabs__link:not(.tabs__link_active):hover,
+.tabs__link:not(.tabs__link_active):focus {
+    background-color: #efefef;
+}
+
+.tabs__content {
+    padding: 1rem;
+    background-color: #FFFFFF;
+    border-top-left-radius: 10pt;
+    border-top-right-radius: 10pt;
+    min-height: 74%;
+}
+
+#createStudentsGroupButton, #createCourseButton {
+    border-radius: 5pt;
+    background-color: #6892FF;
+    color: #FFFFFF;
+    border: none;
+    margin-bottom: 2%;
+    margin-left: 4%;
+    font-size: x-large;
+}
+
+
+.container {
+    display: inline-block;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.element {
+    color: #6892FF;
+    font-size: xx-large;
+}
+
+.tabs__pane {
+    display: none;
+}
+
+.tabs__pane_show {
+    display: inline-block;
+    width: 100%;
+}
+
+footer {
+    grid-area: footer;
+    background-color: #FFFFFF;
+    color: #6892FF;
+    font-size: x-large;
+}
+
+.contacts {
+    margin-left: 2%;
+}
+
+.contacts_button {
+    text-decoration: none;
+}
+
+    .contacts_button:hover {
+        text-decoration: underline;
+    }
+
+    .contacts_button:visited {
+        text-decoration: none;
+        color: #6892FF;
+    }
+
+label {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.head {
+    font-size: 16px;
+}
+
+.formWindow {
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    top: 20%; /* отступ сверху */
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    z-index: 2; /* поверх всех */
+    display: none; /* сначала невидим */
+    position: fixed; /* фиксированное позиционирование, окно стабильно при прокрутке */
+    padding: 15px;
+}
+
+#shadow {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 1; /* поверх всех  кроме окна*/
+    background: #000;
+    opacity: 0.5; /*прозрачность*/
+    left: 0;
+    top: 0;
+}
+
+.create_button, .edit_button {
+    border-radius: 5pt;
+    background-color: #6892FF;
+    color: #FFFFFF;
+    border: none;
+    font-size: x-large;
+}

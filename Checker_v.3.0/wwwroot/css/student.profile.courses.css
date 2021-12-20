@@ -1,0 +1,170 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: auto;
+    min-width: 100%;
+    min-height: 100%;
+    margin: auto;
+    background: #CECECE;
+    font-family: PT SansNarrow;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.2fr 4fr 0.25fr;
+    grid-auto-flow: row;
+    grid-template-areas:
+        "header"
+        "main"
+        "footer";
+}
+
+@font-face {
+    font-family: PT SansNarrow;
+    src: url(/fonts/PTSansNarrow-Regular.ttf);
+}
+
+header {
+    grid-area: header;
+    background-color: #EAEAEA;
+    color: #6892FF;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-left: 2%;
+    margin: 0;
+}
+
+.header {
+    margin: 0;
+    padding-top: 1%;
+}
+
+main {
+    display: grid;
+    margin-top: 1%;
+    grid-template-columns: 0.3fr 0.4fr 0.5fr 0.5fr 0.5fr 0.3fr;
+    grid-template-rows: 0.5fr 1.5fr;
+    grid-auto-flow: row;
+    grid-area: main;
+    grid-template-areas:
+        "info info . . . ."
+        ". courses courses courses courses ."
+}
+
+.info {
+    grid-area: info;
+    min-height: 70%;
+    max-height: 85%;
+    min-width: 60%;
+    background-color: #FFFFFF;
+    padding-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 1%;
+    border-top-right-radius: 20pt;
+    border-bottom-right-radius: 20pt;
+}
+
+.name {
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.name, .role {
+    margin: 0;
+}
+
+.role {
+    font-size: smaller;
+}
+
+.group, .mail {
+    font-size: large;
+    margin-top: 7pt;
+    margin-bottom: 7pt;
+}
+
+.student_mail, .group_number {
+    color: #6892FF;
+}
+
+/*.student_mail:hover {
+    text-decoration: underline;
+}
+
+.student_mail:visited {
+    text-decoration: none; 
+    color: #6892FF;
+}*/
+
+.courses {
+    grid-area: courses;
+    display: inline-block;
+    background-color: #EAEAEA;
+    border-top-left-radius: 10pt;
+    border-top-right-radius: 10pt;
+}
+
+.courses_header {
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.course_container {
+    display: inline-block;
+    background-color: #FFFFFF;
+    border-radius: 8pt;
+    min-width: 42%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+
+.course_name {
+    font-size: x-large;
+    margin-left: 5%;
+    margin-top: 2%;
+    font-weight: 600;
+    color: #6892FF;
+    text-decoration: none;
+}
+
+    .course_name:hover {
+        text-decoration: underline;
+    }
+
+    .course_name:visited {
+        text-decoration: none;
+        color: #6892FF;
+    }
+
+.course_teacher {
+    font-size: large;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+footer {
+    grid-area: footer;
+    background-color: #FFFFFF;
+    color: #6892FF;
+    font-size: x-large;
+}
+
+.contacts {
+    margin-left: 2%;
+}
+
+.contacts_button {
+    text-decoration: none;
+}
+
+    .contacts_button:hover {
+        text-decoration: underline;
+    }
+
+    .contacts_button:visited {
+        text-decoration: none;
+        color: #6892FF;
+    }

@@ -1,0 +1,140 @@
+body {
+    margin: auto;
+	max-width: 90%;
+    max-height: 100%;
+    background: #CECECE;
+    font-family: PT SansNarrow;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1.3fr 0.5fr;
+    grid-template-areas: 
+        "main"
+        "footer";
+}
+
+@font-face{
+	font-family: PT SansNarrow;
+    src: url(/fonts/PTSansNarrow-Regular.ttf);
+}
+
+main {
+    width:auto;
+    height: auto;
+    display: grid; 
+    grid-template-columns: 1fr 1.2fr 0.8fr; 
+    grid-template-rows: 0.5fr 1.5fr; 
+    gap: 0px 0px; 
+    grid-template-areas: 
+        ". . log_in"
+        "main_area main_area main_area"; 
+    grid-area: main;
+}
+
+.log_in {
+    margin-top: 1em;
+    display: grid; 
+    gap: 0px 0px; 
+    grid-template-areas: 
+        "login_forms"
+        "registration"; 
+    grid-area: log_in; 
+    line-height: 1.8;
+    padding-left: 15%;
+}
+
+.login_container {
+    grid-area: login_forms;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    padding-left: 5%;
+    padding-bottom: 5%;
+}
+
+.log_in_header {
+    font-size: x-large;
+    font-weight: bold;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 0;
+}
+
+input, label {
+    display:block;
+}
+
+label {
+    margin-left: 10%;
+}
+
+.email_input, .password_input, .fullName_input, .shortName_input {
+    background-color: #EAEAEA;
+    border: none;
+    border-radius: 5px;
+    height: 20px;
+}
+
+.registration {
+    grid-area: registration;
+}
+
+.registration_button {
+    padding: 2%;
+    margin-top: 5%;
+}
+
+.submit_button {
+    margin: 5%;
+    padding: 1%;
+}
+
+.submit_button, .registration_button {
+    background-color: #6892FF;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 15px;
+    font-family: PT SansNarrow;
+    letter-spacing: 1px;
+    font-weight:bold;
+}
+
+.description {
+    display: grid; 
+    grid-template-columns: 0.7fr 1.6fr 0.7fr; 
+    grid-template-rows: 1fr; 
+    gap: 0px 0px; 
+    grid-template-areas: 
+        ". description .";
+    grid-area: main_area;
+}
+
+.description_text {
+    font-size: xx-large;
+    grid-area: description;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 3%;
+    padding-left: 6%;
+    padding-right: 6%;
+    line-height: 1.8;
+}
+
+footer {
+    grid-area: footer;
+    font-size: large;
+    font-weight: 900;
+    color: #6892FF;
+}
+
+.contacts_button {
+    text-decoration: none; 
+}
+
+.contacts_button:visited 
+{
+    text-decoration: none; 
+    color: #6892FF;
+}
+
+.contacts_button:hover {
+    text-decoration: underline;
+}
